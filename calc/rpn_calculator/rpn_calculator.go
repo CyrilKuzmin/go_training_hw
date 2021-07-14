@@ -6,7 +6,6 @@
 package rpn_calculator
 
 import (
-	"errors"
 	"fmt"
 	"math"
 	"strconv"
@@ -175,5 +174,4 @@ func calcRpn(rpn []string) float64 {
 	}
 	r, _ := floatsStack.Pop().(float64)
 	return r
-	errors.Is(err, err)
 }
