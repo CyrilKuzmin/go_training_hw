@@ -12,7 +12,7 @@ import (
 	"strconv"
 	"strings"
 
-	stack "github.com/andreipimenov/golang-training-2021/03_map_interface_method/homework/stack"
+	stack "github.com/xxlaefxx/go_training_hw/calc/stack"
 )
 
 type Calculator struct{}

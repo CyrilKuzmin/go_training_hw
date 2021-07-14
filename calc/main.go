@@ -5,8 +5,8 @@ import (
 	"os"
 	"strings"
 
-	//calc "github.com/andreipimenov/golang-training-2021/03_map_interface_method/homework/rpn_calculator"
-	calc "github.com/andreipimenov/golang-training-2021/03_map_interface_method/homework/bt_calculator"
+	//calc "github.com/xxlaefxx/go_training_hw/calc/rpn_calculator"
+	calc "github.com/xxlaefxx/go_training_hw/calc/bt_calculator"
 )
 
 // Функция выводит стрелку, которой обозначаем место неверного символа
